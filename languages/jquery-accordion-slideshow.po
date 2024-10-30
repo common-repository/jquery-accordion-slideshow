@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jquery accordion slideshow\n"
+"POT-Creation-Date: 2019-08-04 12:21+0800\n"
+"PO-Revision-Date: 2019-08-04 12:21+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../jquery-accordion-slideshow.php:281 ../jquery-accordion-slideshow.php:282
+#: ../jquery-accordion-slideshow.php:303 ../jquery-accordion-slideshow.php:313
+#: ../jquery-accordion-slideshow.php:314 ../jquery-accordion-slideshow.php:319
+#: ../jquery-accordion-slideshow.php:320 ../pages/image-add.php:168
+#: ../pages/image-edit.php:190 ../pages/image-show.php:53
+msgid "Jquery accordion slideshow"
+msgstr ""
+
+#: ../jquery-accordion-slideshow.php:305 ../pages/image-add.php:263
+#: ../pages/image-edit.php:291 ../pages/image-show.php:130
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../jquery-accordion-slideshow.php:306 ../pages/image-add.php:264
+#: ../pages/image-edit.php:292 ../pages/image-show.php:131
+msgid "click here"
+msgstr ""
+
+#: ../jquery-accordion-slideshow.php:347 ../pages/image-add.php:57
+#: ../pages/image-edit.php:86
+msgid "Please select the gallery name."
+msgstr ""
+
+#: ../jquery-accordion-slideshow.php:348 ../pages/image-add.php:51
+#: ../pages/image-edit.php:80
+msgid "Please enter the image folder(Where you have your images)."
+msgstr ""
+
+#: ../jquery-accordion-slideshow.php:349
+msgid "Please enter Time between each slide (in ms), only number."
+msgstr ""
+
+#: ../jquery-accordion-slideshow.php:350
+msgid "Please enter Width of the container (in px), only number."
+msgstr ""
+
+#: ../jquery-accordion-slideshow.php:351
+msgid "Please enter Height of the container (in px), only number."
+msgstr ""
+
+#: ../jquery-accordion-slideshow.php:352
+msgid "Please enter Width of each slide (in px), only number."
+msgstr ""
+
+#: ../jquery-accordion-slideshow.php:353
+msgid "Please enter Height of each slide (in px), only number."
+msgstr ""
+
+#: ../jquery-accordion-slideshow.php:354
+msgid ""
+"Width of each slides tab (when clicked it opens the slide), only number."
+msgstr ""
+
+#: ../jquery-accordion-slideshow.php:355
+msgid "Please enter Speed of the slide transition (in ms), only number."
+msgstr ""
+
+#: ../jquery-accordion-slideshow.php:356
+msgid "Do you want to delete this record?"
+msgstr ""
+
+#: ../pages/image-add.php:64 ../pages/image-edit.php:93
+msgid "Please enter valid width."
+msgstr ""
+
+#: ../pages/image-add.php:71 ../pages/image-edit.php:100
+msgid "Please enter valid height."
+msgstr ""
+
+#: ../pages/image-add.php:78 ../pages/image-edit.php:107
+msgid "Please enter valid slide width."
+msgstr ""
+
+#: ../pages/image-add.php:85 ../pages/image-edit.php:114
+msgid "Please enter valid slide height."
+msgstr ""
+
+#: ../pages/image-add.php:125
+msgid "New details was successfully added."
+msgstr ""
+
+#: ../pages/image-add.php:161 ../pages/image-edit.php:183
+msgid "Click here to view the details"
+msgstr ""
+
+#: ../pages/image-add.php:170
+msgid "Add details"
+msgstr ""
+
+#: ../pages/image-add.php:172 ../pages/image-edit.php:194
+#: ../pages/image-show.php:65 ../pages/image-show.php:75
+msgid "Image folder location"
+msgstr ""
+
+#: ../pages/image-add.php:174 ../pages/image-edit.php:196
+msgid ""
+"Where is the picture located on your server? upload your images in \"wp-"
+"content\\uploads\\your-folder\" and add the folder path in this box as per "
+"the below example."
+msgstr ""
+
+#: ../pages/image-add.php:176 ../pages/image-edit.php:198
+#: ../pages/image-show.php:66 ../pages/image-show.php:76
+msgid "Gallery name"
+msgstr ""
+
+#: ../pages/image-add.php:193 ../pages/image-edit.php:221
+msgid ""
+"Select your gallery name. This name used to display the gallery in front "
+"page."
+msgstr ""
+
+#: ../pages/image-add.php:195 ../pages/image-edit.php:223
+msgid "Time out"
+msgstr ""
+
+#: ../pages/image-add.php:197 ../pages/image-edit.php:225
+msgid "Time between each slide (in ms)"
+msgstr ""
+
+#: ../pages/image-add.php:199 ../pages/image-edit.php:227
+msgid "Width"
+msgstr ""
+
+#: ../pages/image-add.php:201 ../pages/image-edit.php:229
+msgid "Width of the container (in px)"
+msgstr ""
+
+#: ../pages/image-add.php:203 ../pages/image-edit.php:231
+msgid "Height"
+msgstr ""
+
+#: ../pages/image-add.php:205 ../pages/image-edit.php:233
+msgid "Height of the container (in px)"
+msgstr ""
+
+#: ../pages/image-add.php:207 ../pages/image-edit.php:235
+msgid "Slide Width"
+msgstr ""
+
+#: ../pages/image-add.php:209 ../pages/image-edit.php:237
+msgid "Width of each slide (in px)"
+msgstr ""
+
+#: ../pages/image-add.php:211 ../pages/image-edit.php:239
+msgid "Slide Height"
+msgstr ""
+
+#: ../pages/image-add.php:213 ../pages/image-edit.php:241
+msgid "Height of each slide (in px)"
+msgstr ""
+
+#: ../pages/image-add.php:215 ../pages/image-edit.php:243
+msgid "Speed"
+msgstr ""
+
+#: ../pages/image-add.php:217 ../pages/image-edit.php:245
+msgid "Speed of the slide transition (in ms)"
+msgstr ""
+
+#: ../pages/image-add.php:219 ../pages/image-edit.php:247
+msgid "Tab Width"
+msgstr ""
+
+#: ../pages/image-add.php:221 ../pages/image-edit.php:249
+msgid "Width of each slides TAB (when clicked it opens the slide)"
+msgstr ""
+
+#: ../pages/image-add.php:223 ../pages/image-edit.php:251
+msgid "Pause"
+msgstr ""
+
+#: ../pages/image-add.php:228 ../pages/image-edit.php:256
+msgid "Pause on hover."
+msgstr ""
+
+#: ../pages/image-add.php:230 ../pages/image-edit.php:258
+msgid "Trigger"
+msgstr ""
+
+#: ../pages/image-add.php:235 ../pages/image-edit.php:263
+msgid "Event type that will bind to the \"tab\""
+msgstr ""
+
+#: ../pages/image-add.php:237 ../pages/image-edit.php:265
+msgid "Invert"
+msgstr ""
+
+#: ../pages/image-add.php:242 ../pages/image-edit.php:270
+msgid ""
+"Whether or not to invert the slideshow, so the last slide stays in the same "
+"position, rather than the first slide"
+msgstr ""
+
+#: ../pages/image-add.php:244 ../pages/image-edit.php:272
+msgid "Random"
+msgstr ""
+
+#: ../pages/image-add.php:249 ../pages/image-edit.php:277
+msgid "Do you want to display images in random order?"
+msgstr ""
+
+#: ../pages/image-add.php:255
+msgid "Insert Details"
+msgstr ""
+
+#: ../pages/image-add.php:256 ../pages/image-edit.php:284
+msgid "Cancel"
+msgstr ""
+
+#: ../pages/image-add.php:257 ../pages/image-edit.php:285
+#: ../pages/image-show.php:121
+msgid "Help"
+msgstr ""
+
+#: ../pages/image-edit.php:18 ../pages/image-show.php:23
+msgid "Oops, selected details doesnt exist"
+msgstr ""
+
+#: ../pages/image-edit.php:167
+msgid "Details was successfully updated."
+msgstr ""
+
+#: ../pages/image-edit.php:192 ../pages/image-edit.php:283
+msgid "Update Details"
+msgstr ""
+
+#: ../pages/image-show.php:41
+msgid "Selected record was successfully deleted."
+msgstr ""
+
+#: ../pages/image-show.php:54 ../pages/image-show.php:120
+msgid "Add New"
+msgstr ""
+
+#: ../pages/image-show.php:67 ../pages/image-show.php:77
+msgid "Container width"
+msgstr ""
+
+#: ../pages/image-show.php:68 ../pages/image-show.php:78
+msgid "Container height"
+msgstr ""
+
+#: ../pages/image-show.php:69 ../pages/image-show.php:79
+msgid "Slide width"
+msgstr ""
+
+#: ../pages/image-show.php:70 ../pages/image-show.php:80
+msgid "Slide height"
+msgstr ""
+
+#: ../pages/image-show.php:94
+msgid "Edit"
+msgstr ""
+
+#: ../pages/image-show.php:95
+msgid "Delete"
+msgstr ""
+
+#: ../pages/image-show.php:110
+msgid "No records available."
+msgstr ""
+
+#: ../pages/image-show.php:115
+msgid ""
+"Note: Dont upload your original images into plugin folder. if you upload the "
+"images into plugin folder, you may lose the images when you update the "
+"plugin to next version. Thus upload your images in \"wp-content/uploads/your-"
+"folder/\" folder and use the folder path as per the example."
+msgstr ""
+
+#: ../pages/image-show.php:123
+msgid "Plugin configuration option"
+msgstr ""
+
+#: ../pages/image-show.php:125
+msgid "Drag and drop the widget to your sidebar."
+msgstr ""
+
+#: ../pages/image-show.php:126
+msgid "Add the plugin in the posts or pages using short code."
+msgstr ""
+
+#: ../pages/image-show.php:127
+msgid "Add directly in to the theme using PHP code."
+msgstr ""
